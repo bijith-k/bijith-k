@@ -5,7 +5,7 @@
 <img align="right" alt="coding-gif" width="400" src="https://github.com/bijith-k/bijith-k/assets/123436792/ede032ea-108d-4c44-993e-b6f0013275c6">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijith-k&label=Profile%20views&color=0e75b6&style=flat" alt="bijith-k" /> </p>
  
-- 🌱 I’m currently learning **TypeScript,Next.js**
+ 
 
 - 💬 Ask me about **MongoDB,Express,Node,React**
 
